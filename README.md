@@ -1,2 +1,2 @@
 # githubJSON
-A JSON database
+A JSON database for other github pages 
